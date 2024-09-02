@@ -1,0 +1,5 @@
+- make game menu 
+- fix shape sizes
+- make shapes rotate
+- make a point system
+- code the shape and color board collision mechanic
